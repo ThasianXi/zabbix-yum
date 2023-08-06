@@ -37,7 +37,7 @@
                     <triggers>
                         <trigger>
                             <expression>{last()}&gt;0</expression>
-                            <name>{ITEM.LASTVALUE} Big Fix Upgrades on {HOST.NAME}</name>
+                            <name>{ITEM.LASTVALUE} Bug Fix Upgrades on {HOST.NAME}</name>
                             <priority>AVERAGE</priority>
                         </trigger>
                     </triggers>
